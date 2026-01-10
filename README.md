@@ -16,7 +16,6 @@ A Machine Learning based Music Recommendation System that recommends songs to us
 HexSoftwares_Music_Recommendation_System/
 │
 ├── data/
-├── notebooks/
 ├── src/
 │   └── recommendation.py
 ├── requirements.txt
